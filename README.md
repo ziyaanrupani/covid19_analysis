@@ -16,6 +16,8 @@ Global COVID-19 Overview: The first view provides a snapshot of global data. The
 
 Canada's Health Correlations: The analysis focuses on the relationship between pre-existing health conditions, cancer incidence, obesity, and diabetes, in correlation with hospitalization, ICU rates, and mortality for COVID-19. The findings show varied correlations between the three conditions and  COVID-19 mortality. There is a weak correlation between cancer incidence and the COVID-19 death rate is observed, meanwhile, obesity and diabetes show an inverse relationship. 
 
+The USA's Political Impact: Significant differences emerge when viewing the impact of COVID-19 based on how each state voted in the 2020 presidential election. These differences can be highlighted by viewing the trajectory of new cases in just two states; both equal in population but vastly different in political leadership. Florida, a Republican-dominated state with a population of ~22 million, shows much higher spikes towards the end when compared to New York, a Democratic state with a population of ~20 million. 
+
 ## Insights Deep Dive
 ## Recommendations
 
