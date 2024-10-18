@@ -1,0 +1,55 @@
+﻿Province,Attribute,Value
+Alberta,Cancer incidence rate,494.7
+British Columbia,Cancer incidence rate,461.6
+Manitoba,Cancer incidence rate,489.8
+New Brunswick,Cancer incidence rate,503.7
+Newfoundland and Labrador,Cancer incidence rate,535.2
+Northwest Territories,Cancer incidence rate,507.7
+Nova Scotia,Cancer incidence rate,453.6
+Nunavut,Cancer incidence rate,503.5
+Ontario,Cancer incidence rate,531.8
+Prince Edward Island,Cancer incidence rate,486.7
+Saskatchewan,Cancer incidence rate,479.6
+Yukon,Cancer incidence rate,481.3
+Alberta,Diabetes Number of persons,246500
+British Columbia,Diabetes Number of persons,294200
+Manitoba,Diabetes Number of persons,73400
+New Brunswick,Diabetes Number of persons,64600
+Newfoundland and Labrador,Diabetes Number of persons,48300
+Nova Scotia,Diabetes Number of persons,66300
+Ontario,Diabetes Number of persons,1086100
+Prince Edward Island,Diabetes Number of persons,11400
+Quebec,Diabetes Number of persons,537500
+Saskatchewan,Diabetes Number of persons,66800
+Alberta,Diabetes Percent of population,6.7
+British Columbia,Diabetes Percent of population,7
+Manitoba,Diabetes Percent of population,6.8
+New Brunswick,Diabetes Percent of population,9.9
+Newfoundland and Labrador,Diabetes Percent of population,10.6
+Nova Scotia,Diabetes Percent of population,8
+Ontario,Diabetes Percent of population,8.6
+Prince Edward Island,Diabetes Percent of population,8.5
+Quebec,Diabetes Percent of population,7.4
+Saskatchewan,Diabetes Percent of population,7.2
+Alberta,New Cancer case,19305
+British Columbia,New Cancer case,26735
+Manitoba,New Cancer case,6620
+New Brunswick,New Cancer case,4980
+Northwest Territories,New Cancer case,160
+Nova Scotia,New Cancer case,5480
+Nunavut,New Cancer case,75
+Ontario,New Cancer case,82965
+Prince Edward Island,New Cancer case,900
+Saskatchewan,New Cancer case,5620
+Yukon,New Cancer case,185
+Newfoundland and Labrador,New Cancer cases ,3580
+Alberta,Percent of Population Obese,21.40707692
+British Columbia,Percent of Population Obese,16.11448231
+Manitoba,Percent of Population Obese,23.62853059
+New Brunswick,Percent of Population Obese,26.59793496
+Newfoundland and Labrador,Percent of Population Obese,30.33851903
+Nova Scotia,Percent of Population Obese,25.10711234
+Ontario,Percent of Population Obese,20.27336279
+Prince Edward Island,Percent of Population Obese,25.91809121
+Quebec,Percent of Population Obese,19.45085326
+Saskatchewan,Percent of Population Obese,25.09213385
