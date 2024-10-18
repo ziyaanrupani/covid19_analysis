@@ -22,12 +22,12 @@ The first view provides a snapshot of global data. The illustrations are interac
 ### Canada's Health Correlations
 * The two graphs show the percentage of COVID-19 patients hospitalized and in intensive care units (ICU) broken down by province.
   * There is a sharp spike in early 2020 corresponding to the initial outbreaks followed by a rapid decline in July of 2020.
+
 ![image](https://github.com/user-attachments/assets/53b13d3e-e63f-4c84-ad82-05350c01c0da)
 
 * The impact varied significantly across provinces.
   * While British Columbia (blue) had a higher rate of patients hospitalized, Ontario (orange) had more patients who required intensive care for their conditions.
-  * Alberta     
-
+  
 ![image](https://github.com/user-attachments/assets/3c3b6c4c-bd7c-4b58-854b-342fbb013c5b)![image](https://github.com/user-attachments/assets/abe38846-08ae-4b16-b6d2-c826cd93c2e9)
 
 * As most provinces only had an initial spike, Saskatchewan (as shown) had multiple.
@@ -38,18 +38,18 @@ The first view provides a snapshot of global data. The illustrations are interac
 * In addition to tracking hospitalization rates, trends between death rates and some underlying conditions were evaluated.
   * The analysis focuses on the relationship between pre-existing health conditions, cancer incidence, obesity, and diabetes, in correlation with hospitalization, ICU rates, and mortality for COVID-19.
   * Each scatterplot point is representative of a province.
-
-![image](https://github.com/user-attachments/assets/64d4d987-93b3-46fa-8c6b-38aa0cdb521b)
-
 * The findings show varied correlations between the three conditions and COVID-19 mortality.
   * There is a weak correlation between cancer incidence and the COVID-19 death rate observed, meanwhile, obesity and diabetes show an inverse relationship.
   * The negative correlation between obesity and diabetes was unexpected.
   * A limitation of this analysis is that it focuses far too much on averages as entire provinces are evaluated rather than individuals.
- 
-* 
+  
+![image](https://github.com/user-attachments/assets/64d4d987-93b3-46fa-8c6b-38aa0cdb521b)
+
+
 
 ### The USA's Political Impact
-Significant differences emerge when viewing the impact of COVID-19 based on how each state voted in the 2020 presidential election. These differences can be highlighted by viewing the trajectory of new cases in just two states; both equal in population but vastly different in political leadership. Florida, a Republican-dominated state with a population of ~22 million, shows much higher spikes towards the end when compared to New York, a Democratic state with a population of ~20 million. 
+* Significant differences emerge when viewing the impact of COVID-19 based on how each state voted in the 2020 presidential election. These differences can be highlighted by viewing the trajectory of new cases in just two states; both equal in population but vastly different in political leadership.
+  * Florida, a Republican-dominated state with a population of ~22 million, shows much higher spikes towards the end when compared to New York, a Democratic state with a population of ~20 million. 
 
 ## Recommendations
 * For further understanding of different rates of decline in hospitalization rates, it would be beneficial to compile timelines across all provinces to evaluate if those with multiple spikes had relaxed measures.
