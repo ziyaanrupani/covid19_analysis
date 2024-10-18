@@ -11,8 +11,7 @@ The datasets were sourced from reputable public platforms, including Statistics 
 All the data sets used are linked below.
 
 ## Executive Summary
-
-Global COVID-19 Overview
+#### Global COVID-19 Overview
 The first view provides a snapshot of global data. The illustrations are interactive and can be narrowed to each World Health Organization region to provide a level of comparison. The leading countries, till Nov 16, 2021, were the USA, India, and Brazil accounting for ~40% of cases worldwide despite comprising ~25% of the global population. There are cyclical patterns in new cases, with multiple surges over time, indicating repeated waves and potential new strains finding their way into communities. The surge observed in mid to late 2021 may be attributed to the easing of restrictions and the conclusion of the warmer summer months.  
 
 ![tracker](https://github.com/user-attachments/assets/dd294ad7-7c14-439d-8a68-f382dfeedd27)
@@ -45,19 +44,38 @@ The first view provides a snapshot of global data. The illustrations are interac
   
 ![image](https://github.com/user-attachments/assets/64d4d987-93b3-46fa-8c6b-38aa0cdb521b)
 
-
-
 ### The USA's Political Impact
+#### Case Rate
 * Significant differences emerge when viewing the impact of COVID-19 based on how each state voted in the 2020 presidential election. These differences can be highlighted by viewing the trajectory of new cases in just two states; both equal in population but vastly different in political leadership.
-  * Florida, a Republican-dominated state with a population of ~22 million, shows much higher spikes towards the end when compared to New York, a Democratic state with a population of ~20 million. 
+  * Florida, a Republican-dominated state with a population of ~22 million, shows much higher spikes towards the end when compared to New York, a Democratic state with a population of ~20 million.
+  * The spikes align with relaxed health restrictions and the reopening of businesses.
+
+![image](https://github.com/user-attachments/assets/dcef4804-120e-4331-810c-8bab3fd7fd02)
+
+* A comparison of COVID case percentages by state, categorized by their political party, shows that on average Democratic states had lower cases.
+  * The number was based on the ratio of positive cases to the state's population to get a truer estimate.
+  * There was a ~4.2% difference between Democratic and Republican states.
+    * The difference was not tested for significance.
+  * States such as New York, Oregon, and Vermont had generally lower case rates in comparison to most.
+  * North Dakota, Tennessee, and Utah had much higher case rates than others. 
+
+![image](https://github.com/user-attachments/assets/326bdbde-14cc-4767-99e2-d3f37f7d8e29)
+
+#### Vaccination Rate
+* The scatter plot shows a negative correlation between vaccination rates and COVID-19 case percentages. States with higher vaccination rates, particularly those led by Democratic states, have lower case rates.
+  * States like Vermont and Massachusetts had vaccination rates above 70%. These states prioritized vaccine rollouts and maintained public health measures for longer durations.
+  * States like Alabama and Mississippi with vaccination rates below 50% show higher case percentages. These states may have faced more resistance to vaccination efforts and possibly relaxed restrictions leading to higher counts. 
+
+![image](https://github.com/user-attachments/assets/78b90976-2c6a-49f0-bffe-8704332f09e5)
 
 ## Recommendations
 * For further understanding of different rates of decline in hospitalization rates, it would be beneficial to compile timelines across all provinces to evaluate if those with multiple spikes had relaxed measures.
-  * Tracking vaccine distribution across the provinces would also help in understanding if it resulted in a decline. 
+  * Tracking vaccine distribution across the provinces would also help in understanding if it resulted in a decline.
 
 * Focusing on the provincial population is not ideal for an in-depth analysis. To gain a better understanding of comorbidity, a dataset that tracks all patient's recovery/death, weight, diabetic condition, and cancer history is required.
   * This would allow for more precise modeling to determine whether specific pre-existing conditions lead to a worse prognosis when contracting the virus. 
 
+* Analyze vaccination rates, the strictness and duration of lockdown measures, and other guidelines across states with the highest and lowest rates to gain insights into factors that may have contributed to better outcomes.
 
 ## Data Sources
 
